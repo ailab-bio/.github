@@ -3,7 +3,7 @@
 Welcome to our team GitHub page! Here are some useful links:
 
 - [Team GitHub organization](https://github.com/ailab-bio)
-- [Team HuggingFace page](http://huggingface.co/datasets/ailab-bio)
+- [Team HuggingFace page](https://huggingface.co/ailab-bio)
 - [Team website](https://ailab.bio/)
 
 AIME members only, check out:
